@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Karan Majila</h1>
 <h3 align="center">A passionate Full-Stack Developer & AI Enthusiast from India</h3>
