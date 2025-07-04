@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Karan Majila</h1>
 <h3 align="center">A passionate Full-Stack Developer & AI Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
 
 - 🔭 I’m currently working on **Blogify – An AI-powered blogging platform (MERN Stack)**  
 - 🌱 I’m learning **LLMs, RAG pipelines, and advanced React design patterns**  
