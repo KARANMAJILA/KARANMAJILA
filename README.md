@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Blogify – An AI-powered blogging platform (MERN Stack)**  
+
 - 🌱 I’m learning **LLMs, RAG pipelines, and advanced React design patterns**  
 - 👯 I’m looking to collaborate on **open-source AI + Web projects**  
 - 💬 Ask me about **React, Node.js, MongoDB, Git, and AI integrations**  
