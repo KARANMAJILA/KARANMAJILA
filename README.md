@@ -25,13 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KARANMAJILA&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KARANMAJILA&layout=compact&theme=radical&hide_border=true)
-
----
 
 ### 🌐 Connect With Me
 
